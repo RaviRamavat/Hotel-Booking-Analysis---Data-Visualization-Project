@@ -1,7 +1,8 @@
+
 # Hotel Booking Analysis Dashboard
 
 This dashboard provides insights and visualizations on hotel booking data, allowing users to explore various aspects such as booking trends, guest behavior, preferences, revenue, and performance.
-
+[Repository link](https://github.com/RaviRamavat/Hotel-Booking-Analysis---Data-Visualization-Project.git)
 ## Features
 
 - **Booking Trends and Seasonality Insights**: Visualize booking trends over time and explore seasonality patterns.
@@ -14,7 +15,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/RaviRamavat/Hotel-Booking-Analysis---Data-Visualization-Project.git
 ```
 2. Install the required dependencies using pip\
 ```bash
